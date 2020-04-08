@@ -1,0 +1,129 @@
+time="2020-04-07 00:02:38" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:02:44" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:02:44" level=info msg="{\"orderno\":\"41\",\"apppayurl\":\"hahahahahah\",\"status\":\"20000\",\"msg\":\"成功获取app支付链接\",\"sign\":\"0db5b5569d48133147645bcf6cb69074\"}\n"
+time="2020-04-07 00:02:44" level=info msg="[http] /push-POST-127.0.0.1-200(1ms)" ip=127.0.0.1 method=POST res_length= res_status=200 title="G@@dL#ck." uid= url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:04:43" level=error msg="http: Server closed"
+time="2020-04-07 00:04:46" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:04:49" level=error msg="http: Server closed"
+time="2020-04-07 00:10:54" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:10:54" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:11:00" level=error msg="http: Server closed"
+time="2020-04-07 00:11:00" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:29:50" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:29:50" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:29:56" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:29:56" level=info msg="{\"orderno\":\"41\",\"apppayurl\":\"hahahahahah\",\"status\":\"20000\",\"msg\":\"成功获取app支付链接\",\"sign\":\"0db5b5569d48133147645bcf6cb69074\"}\n"
+time="2020-04-07 00:29:56" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST res_length= res_status=200 title="G@@dL#ck." uid= url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:30:05" level=error msg="http: Server closed"
+time="2020-04-07 00:30:05" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:30:36" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:30:36" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:30:39" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:30:40" level=error msg="unknown error - 33: session not created: This version of ChromeDriver only supports Chrome version 77\n  (Driver info: chromedriver=77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}),platform=Mac OS X 10.15.3 x86_64)" OrderNo=41 funcName=NewRemote
+time="2020-04-07 00:34:25" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:34:25" level=info msg="{\"orderno\":\"41\",\"status\":\"10013\",\"msg\":\"相同的订单号请求了多次\"}\n"
+time="2020-04-07 00:34:25" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST res_length= res_status=200 title="G@@dL#ck." uid= url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:34:32" level=error msg="http: Server closed"
+time="2020-04-07 00:34:32" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:34:37" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:34:37" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:34:40" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:37:20" level=error msg="http: Server closed"
+time="2020-04-07 00:37:21" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:37:25" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:37:25" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:37:25" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:50:13" level=error msg="http: Server closed"
+time="2020-04-07 00:50:13" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:50:18" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:50:18" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:50:27" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:50:27" level=error msg="unknown error - 61: invalid argument: cannot parse capability: goog:chromeOptions\nfrom invalid argument: cannot parse mobileEmulation\nfrom invalid argument: 'iphone 7 Plus' must be a valid device\nfrom unknown error: must be a valid device\n  (Driver info: chromedriver=80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}),platform=Mac OS X 10.15.3 x86_64)" OrderNo=41 funcName=NewRemote
+time="2020-04-07 00:53:13" level=error msg="http: Server closed"
+time="2020-04-07 00:53:13" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:53:17" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:53:17" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:53:36" level=error msg="http: Server closed"
+time="2020-04-07 00:53:36" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:53:40" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:53:40" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:53:45" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:54:25" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:54:25" level=info msg="{\"orderno\":\"41\",\"status\":\"10013\",\"msg\":\"相同的订单号请求了多次\"}\n"
+time="2020-04-07 00:54:25" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST res_length= res_status=200 title="G@@dL#ck." uid= url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:54:41" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:55:20" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:55:51" level=error msg="http: Server closed"
+time="2020-04-07 00:55:51" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 00:56:08" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 00:56:08" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 00:57:47" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 00:58:44" level=error msg="http: Server closed"
+time="2020-04-07 00:58:44" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 01:01:45" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 01:01:45" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 01:01:48" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:01:57" level=error msg="http: Server closed"
+time="2020-04-07 01:01:57" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: read tcp 127.0.0.1:49763->127.0.0.1:9515: read: connection reset by peer" funcName=StopServer
+time="2020-04-07 01:02:53" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 01:02:53" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 01:02:55" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:10:20" level=error msg="http: Server closed"
+time="2020-04-07 01:10:20" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 01:18:06" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 01:18:06" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 01:18:12" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:18:12" level=info GetValue=HeadLess orderno=4111 proxy="58.218.92.73:5614"
+time="2020-04-07 01:18:44" level=error msg="http: Server closed"
+time="2020-04-07 01:18:44" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 01:18:50" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 01:18:50" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 01:19:01" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:19:01" level=info GetValue=UseProxy orderno=4111 proxy="58.218.92.91:2443"
+time="2020-04-07 01:20:19" level=error msg="http: Server closed"
+time="2020-04-07 01:20:19" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 01:20:24" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 01:20:24" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 01:20:33" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:20:34" level=info GetValue=UseProxy orderno=4111 proxy="58.218.92.157:7788"
+time="2020-04-07 01:20:37" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:20:37" level=info msg="{\"orderno\":\"4111\",\"status\":\"10013\",\"msg\":\"相同的订单号请求了多次\"}\n"
+time="2020-04-07 01:20:37" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST res_length= res_status=200 title="G@@dL#ck." uid= url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:20:47" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:20:47" level=info GetValue=UseProxy orderno=41111 proxy="58.218.214.149:9402"
+time="2020-04-07 01:20:51" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:20:52" level=info GetValue=UseProxy orderno=411112 proxy="58.218.92.68:6398"
+time="2020-04-07 01:24:12" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:24:13" level=info GetValue=UseProxy orderno=44445 proxy="58.218.92.167:8779"
+time="2020-04-07 01:25:16" level=error msg="http: Server closed"
+time="2020-04-07 01:25:16" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: read tcp 127.0.0.1:57511->127.0.0.1:9515: read: connection reset by peer" funcName=StopServer
+time="2020-04-07 01:25:38" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 01:25:38" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 01:25:41" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 01:25:42" level=info GetValue=UseProxy orderno=44445 proxy="58.218.214.136:2503"
+time="2020-04-07 10:39:38" level=error msg="http: Server closed"
+time="2020-04-07 10:39:38" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection reset by peer" funcName=StopServer
+time="2020-04-07 10:39:47" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 10:39:47" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 10:39:51" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 10:39:51" level=info GetValue=UseProxy orderno=44445 proxy=
+time="2020-04-07 10:40:10" level=error msg="http: Server closed"
+time="2020-04-07 10:40:10" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 10:41:32" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 10:41:32" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-07 10:41:49" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 10:41:49" level=info GetValue=UseProxy orderno=44445 proxy=
+time="2020-04-07 10:44:05" level=error msg="http: Server closed"
+time="2020-04-07 10:44:05" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 10:50:19" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 10:50:19" level=info funcName=Main json=Begin
+time="2020-04-07 10:50:25" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 10:50:25" level=info GetValue=UseProxy orderno=44445 proxy=
+time="2020-04-07 10:50:56" level=error msg="http: Server closed"
+time="2020-04-07 10:50:56" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer
+time="2020-04-07 10:51:01" level=info msg="@@@@ChromeDriverService start success."
+time="2020-04-07 10:51:01" level=info funcName=Main json=Begin
+time="2020-04-07 10:51:04" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-07 10:51:04" level=info GetValue=UseProxy orderno=44445 proxy=
+time="2020-04-07 10:52:02" level=error msg="http: Server closed"
+time="2020-04-07 10:52:02" level=fatal msg="Get http://localhost:9515/wd/hub/shutdown: dial tcp 127.0.0.1:9515: connect: connection refused" funcName=StopServer

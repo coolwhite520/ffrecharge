@@ -1,0 +1,8 @@
+time="2020-04-06 22:54:01" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-06 22:57:05" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-06 23:29:19" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-06 23:29:22" level=error msg="http: Server closed"
+time="2020-04-06 23:42:28" level=info funcName=PostSecondQrcode json=hahaha
+time="2020-04-06 23:43:13" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST title="G@@dL#ck." url=/push user_agent=axios/0.19.2
+time="2020-04-06 23:43:13" level=info msg="[http] /push-POST-127.0.0.1-200(0ms)" ip=127.0.0.1 method=POST res_length= res_status=200 title="G@@dL#ck." uid= url=/push user_agent=axios/0.19.2
+time="2020-04-06 23:43:36" level=error msg="http: Server closed"
