@@ -3,7 +3,6 @@ package autorecharge
 import (
 	"fmt"
 	"github.com/Unknwon/goconfig"
-	. "github.com/coolwhite520/ffrecharge/protocol"
 	"github.com/coolwhite520/ffrecharge/proxy"
 	gogetter "github.com/hashicorp/go-getter"
 	log "github.com/sirupsen/logrus"
